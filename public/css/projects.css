@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "MorePerfectDOSVGA";
+    src: url("public/fonts/MorePerfectDOSVGA.ttf");
+  }
+
+body {
+    background-color: #050505;
+    margin: 0;
+}
+
+.Header {
+    overflow: hidden;
+    background-color: #050505;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding: 2px 0px
+}
+
+.Header a {
+    color: #d0e55a;
+
+    text-decoration: none;
+    font-family: "MorePerfectDOSVGA", "Courier New";
+    font-size: 17px;
+}
