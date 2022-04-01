@@ -24,3 +24,7 @@ body {
     font-family: "MorePerfectDOSVGA", "Courier New";
     font-size: 17px;
 }
+
+.test a {
+    color: #fafafa;
+}
