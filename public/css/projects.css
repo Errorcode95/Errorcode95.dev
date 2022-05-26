@@ -28,3 +28,8 @@ body {
 .test a {
     color: #fafafa;
 }
+
+.table {
+  margin-left: auto;
+  margin-right: auto;
+}
