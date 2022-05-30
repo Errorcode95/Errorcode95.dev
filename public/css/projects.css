@@ -23,7 +23,7 @@ body {
     font-family: "MorePerfectDOSVGA", "Courier New";
     font-size: 17px;
 
-.table {
+table, th, td {
   width: 70%;
   margin-left: auto;
   margin-right: auto;
