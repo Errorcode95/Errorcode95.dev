@@ -22,14 +22,8 @@ body {
     text-decoration: none;
     font-family: "MorePerfectDOSVGA", "Courier New";
     font-size: 17px;
-}
-.test{}
 
-.test a {
-    color: #fafafa;
-}
-
-.projectsTable {
+.table {
   width: 70%;
   margin-left: auto;
   margin-right: auto;
