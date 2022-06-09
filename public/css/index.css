@@ -4,7 +4,7 @@ body {
     font-family: "Lucida Console", Monospace;
 }
 
-.legacy {
+.legacy a {
     color: #050505;
     text-decoration: none;
 }
