@@ -6,6 +6,7 @@
 body {
     background-color: #050505;
     margin: 0;
+    font-family: "MorePerfectDOSVGA", "Courier New";
 }
 
 .Header {
@@ -14,22 +15,25 @@ body {
     border-style: solid;
     border-color: white;
     text-align: center;
-    padding: 2px 0px
+    padding: 2px 0px;
 }
 
 .Header a {
-    color: #d0e55a;
+    color: #ffff00;
     text-decoration: none;
-    font-family: "MorePerfectDOSVGA", "Courier New";
     font-size: 17px;
+}
 
 table, th, td {
-  color: white;
-  width: 70%;
-  margin-left: auto;
-  margin-right: auto;
-}
-    
-.projectsTable {
     color: white;
-} 
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-color: white;
+    border-collapse: collapse;
+    padding: 2px 0px;
+}
+
+table {
+    width: 70%;
+  }
