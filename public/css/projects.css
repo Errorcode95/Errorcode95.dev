@@ -32,8 +32,17 @@ table, th, td {
     border-color: white;
     border-collapse: collapse;
     padding: 2px 0px;
+    table-layout: fixed;
 }
 
 table {
     width: 70%;
-  }
+}
+
+.tableImage {
+
+}
+
+.tableLink {
+
+}
